@@ -1,0 +1,192 @@
+
+body{
+    background-color: #379936;
+}
+
+.textbox ul li{
+  margin: 9px 148px 10px 181px;  
+
+}
+
+.textbox ol li{
+  margin: 9px 148px 10px 181px;   
+
+}
+
+code{
+
+  margin: 9px 148px 10px 181px;   
+}
+
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.textbox p{
+
+text-decoration: none;
+
+}
+
+.textbox a{
+
+text-decoration: none;
+  color: #379936;
+
+
+}
+
+.textbox{
+
+    margin: 9px 45px 5px 78px;
+    background-color: white;
+    color: black;
+    height: auto;
+    padding: 15px;
+}
+
+.textbody h1{
+  margin: 9px 148px 10px 181px;  
+  font-style: black;
+  color: #379936;
+
+
+}
+
+.textbody h2,h3,h4{
+  margin: 9px 148px 10px 181px;  
+  font-style: black;
+
+
+}
+.textbody p{
+  height: auto;
+  margin: 9px 148px 5px 181px; 
+  text-align: justify;
+
+
+
+}
+
+.textbody{
+  background-color: #379936;
+  justify-content: center;
+  align-items: center;
+  font-family: Helvetica; 
+  color: #379936;
+  margin: 9px 0px 5px 0px;
+  height: auto;
+
+
+
+}
+
+
+
+.endbar{
+      height: auto;
+      background-color: black;
+      margin: 0 0 5px 0;
+      text-align: center;
+      bottom: 0;
+      padding: 5px;
+
+
+}
+.endbar p{
+  text-decoration: none;
+  font-family: Helvetica;
+  color: #379936;
+}
+
+.topbar{
+      height: auto;
+      background-color: #808080;
+      margin: 0 0 5px 0;
+      text-align: center;
+      padding: 0.1px;
+
+}
+.topbar p{  
+  text-decoration: none;
+  font-family: Helvetica;
+  color: white;
+}
+
+.imglogo{
+  background-color: white;
+      margin: 9px 45px 5px 78px;
+
+}
+.imglogo img{
+  width: 40vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  background-color: white;
+
+
+}
+
+
+
+.topmenu{
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: Helvetica; 
+  position: relative!important;  
+  
+}
+
+.topmenu ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.topmenu ul li{
+      float: left;
+      width: 170px;
+      height: 40px;
+      background-color: white;  
+      line-height: 40px;
+      text-align: center;
+      font-size: 15px;
+      margin-right: 1px;  
+      border-style: solid;
+      border-width: 1px;
+      border-color: #379936;
+    }
+
+.topmenu ul li a{
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+
+.topmenu ul li a:hover{
+  background-color: #379936 ;
+  color: white;
+}
+
+.topmenu ul li ul li{
+  display: none;
+}
+.topmenu ul li:hover ul li{
+  display: block;
+
+}
+
+.imgcentralizada img{
+  margin-left: 185px;
+
+
+}
